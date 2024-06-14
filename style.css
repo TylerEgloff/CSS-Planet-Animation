@@ -47,7 +47,7 @@ body {
     margin-top: -6em;
     margin-left: -6em;
 
-    background: url('planet.webp') no-repeat center center;
+    background: url('images/planet.webp') no-repeat center center;
     background-size: contain;
 
     -webkit-transform: rotateY(30deg) rotateX(-75deg);
@@ -80,7 +80,7 @@ body {
     margin-top: -1.5em;
     margin-left: -1.5em;
 
-    background: url('Satellite.webp') no-repeat center center;
+    background: url('images/Satellite.webp') no-repeat center center;
     background-size: contain;
 
     animation: invert-orbit 10s infinite linear;

@@ -3,6 +3,6 @@ Responsive CSS animation of a satellite orbiting a planet. Uses CSS transform an
 
 #
 A gif showcasing the demo:
-#
+
 ![](https://github.com/GucciGib/CSS-Planet-Animation/blob/main/images/AnimationClip.gif)
 
